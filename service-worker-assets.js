@@ -157,6 +157,18 @@
       "url": "Cheap5.com.styles.css"
     },
     {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-XBhzIigjVAROZS6bG7\/2tyUAA4K1jBcg0fEmDHVJd7k=",
+      "url": "404.html"
+    },
+    {
+      "hash": "sha256-h+PKqGuTlbXHzX52NbYVY7sgyt5z5eVimLaTrGkY85Y=",
+      "url": "CNAME"
+    },
+    {
       "hash": "sha256-kfXT+\/7PwnK7UBTMq8\/AX20+soj7u1sV\/U1lCtnmSZI=",
       "url": "css\/app.css"
     },
@@ -229,5 +241,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "A9VIvUT5"
+  "version": "cV8qdhc4"
 };
