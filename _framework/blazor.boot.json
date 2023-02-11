@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Cheap5.com.dll": "sha256-w2r0bIA1dLbO+g71rYnaKYtOWyK\/C3WUruuxVRCaLmc=",
+      "Cheap5.com.dll": "sha256-nxivm28CUb8XIlPjueARXck9M4vr1gGtR5QeuiD3VwA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-OfPNI7UCQFv8hh2XtlZYzY7d9FFHfPRrmnF6aeXeork=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-LxZ7HJ8eLJ8fbfDHpXkGb9VhtdUfHxfLq7a9SmRxCiM=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Ph2ZOl\/LOY2cCUG\/S2iA61YUWIsDlcAHFxzdTG43rPw=",
