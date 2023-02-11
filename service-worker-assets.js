@@ -25,11 +25,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-PKcJORYmTZd\/gEd3UkU08\/sd47nbMTdvXzLuI0r+c\/I=",
+      "hash": "sha256-DFk3fKU9MsTn7FgOxcHAdKKQaM9JnIjvp4wXKVgP\/50=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-nxivm28CUb8XIlPjueARXck9M4vr1gGtR5QeuiD3VwA=",
+      "hash": "sha256-jisZ25nSqHsHE44R74rpygvhxCXm8Io5cpBUPbXNorE=",
       "url": "_framework\/Cheap5.com.dll"
     },
     {
@@ -241,5 +241,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "cGBk4D43"
+  "version": "v9NXvoM6"
 };
